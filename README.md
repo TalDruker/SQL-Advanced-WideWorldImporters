@@ -32,4 +32,5 @@ The goal is to demonstrate real world problem solving, robust query structuring,
 * **Sample Database:** WideWorldImporters
 * **Core Concepts:** Subqueries, CTEs, Window Functions, Conditional Aggregation, String Manipulation, Date/Time Arithmetic.
 
-Stay tuned as more advanced scripts and analytical modules are added!
+###  Project Resources
+* **[GitHub SQL Repository (Advanced WideWorldImporters)](https://github.com/TalDruker/SQL-Advanced-WideWorldImporters/blob/main/Project2.sql)** - Explore advanced T-SQL queries, window functions, and business intelligence analytics scripts.
